@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project analyzes Zepto product data using PostgreSQL. It includes data cleaning, exploratory data analysis, and business-focused SQL queries to generate actionable insights.
+This project analyzes Zepto product data using PostgreSQL. The analysis includes data cleaning, exploratory data analysis, and business-focused SQL queries to generate meaningful insights from product, pricing, and inventory data.
 
 ## 🛠 Tools Used
 
@@ -44,6 +44,5 @@ This project analyzes Zepto product data using PostgreSQL. It includes data clea
 - Business Analysis
 - SQL Aggregations
 - CASE Statements
-- GROUP BY
-- HAVING
+- GROUP BY & HAVING
 - Sorting & Filtering
